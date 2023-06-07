@@ -17,7 +17,7 @@
 
 ## Oyunun İsmi
 
-Düşünce Aşamasında...
+***Shoreward**
 
 ## Oyunun Açıklaması
 
@@ -43,7 +43,7 @@ Düşünce Aşamasında...
 - Karanlık Ortaçağ Atmosferi hayranları
 - Strateji ve birlik yönetimi tarzına hakim kişiler
 - Aksiyon temalı hikayeleri sevenler
-- İzometrik bakış açısına hayranlık duyna insanlar.
+- İzometrik bakış açısına hayranlık duyan insanlar.
 - Dönemsel ve Ortaçağ müziklerini seven insanlar.
 - 13+ yaş kitlesine uygun olanlar.
 
