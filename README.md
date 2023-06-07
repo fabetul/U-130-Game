@@ -1,20 +1,19 @@
-# U-130-Game 
->>> Google Oyun ve Uygulama Akademisi tarafından düzenlenen Bootcamp sürecinde Unity U-130 takımının oyunudur. 
+# U-130 Game 👾
+> Google Oyun ve Uygulama Akademisi tarafından düzenlenen Bootcamp sürecinde Unity U-130 takımının oyunudur.
 
-# **Takım İsmi**
+# Takım İsmi
 
-Feymnc Studios
-
+🍁 Feymc Studios 🍁
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
- Product Owner : Mustafa Aydemir
+ **Product Owner** ✏️ -> Mustafa Aydemir
 
- Scrum Master : Fatma Betül Tokuşlu
+ **Scrum Master** 📂 -> Fatma Betül Tokuşlu
 
- Team Member/Developer : Cengizhan Boz , Ece Sütcü , Yaren Sarı
+ **Takım Üyesi/Developer** 💻 -> Cengizhan Boz , Ece Sütcü , Yaren Sarı
 
 ## Oyunun İsmi
 
@@ -51,7 +50,7 @@ Düşünce Aşamasında...
 
 ## Product Backlog URL
 
-- Düzenlenecek -
+Düzenlenecek...
 
 # Sprint 1
 
@@ -59,8 +58,8 @@ Düşünce Aşamasında...
 
 + **Sprint Notları**:
 
-+ Sprint içinde tamamlanması tahmin edilen puan:
-+ Puan tamamlama mantığı:
++ **Sprint içinde tamamlanması tahmin edilen puan**:
++ **Puan tamamlama mantığı**:
 
 + **Backlog düzeni ve Story seçimleri**:
 + **Daily Scrum**:
