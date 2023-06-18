@@ -49,36 +49,44 @@
 
 
 ## Product Backlog URL
+[Unity Team 130 Miro Backlog Board]([hedef_url](https://miro.com/app/board/uXjVM9pKeDE=/))
 
-Düzenlenecek...
 
 # Sprint 1
 
-!!! Taslak Düzenlenecektir !!!
-
 + **Sprint Notları**:
 
-+ **Sprint içinde tamamlanması tahmin edilen puan**:
-+ **Puan tamamlama mantığı**:
++ **Sprint içinde tamamlanması tahmin edilen puan**: 100
++ **Puan tamamlama mantığı**: Proje boyunca tamamlanması tahmin edilen backloglara 400 puan verdik. Bu ilk sprint olduğu için 100 puanın tamamlanması gerektiğini düşündük.
 
-+ **Backlog düzeni ve Story seçimleri**:
-+ **Daily Scrum**:
++ **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
++ **Daily Scrum**: Daily Scrum dosyası içinde Product Owner arkadaşımız Mustafa'nın günlük konuşmalar ve eylemler sonucu tuttuğu **Eylem Takibi** notları ve developer arkadaşımızın tuttuğu **DevLog** notları yer almaktadır. 
+  [Sprint 1 Daily Scrum Notes](docs.google.com/document/d/1E5sOWnhyFnrcRP-oHkbo679HSwhVnD93/edit)
 
 
 + **Sprint board**
-  Ekran görüntüsü:
+  Ekran görüntüsü: ![Sprint Board]("C:\Users\fatma\Downloads\sprint board.png") 
+
+
 
 + **Ürün Durumu** 
-  Ekran görüntüsü:
+  Ekran görüntüsü:  ![Resim 1]("C:\Users\fatma\Downloads\ürün durumu\1.jpeg")
+![Resim 2]("C:\Users\fatma\Downloads\ürün durumu\2.jpeg")
+![Resim 3]("C:\Users\fatma\Downloads\ürün durumu\3.jpeg")
+![Resim 4]("C:\Users\fatma\Downloads\ürün durumu\4.jpeg")
+![Resim 5]("C:\Users\fatma\Downloads\ürün durumu\5.jpeg")
+![Resim 6]("C:\Users\fatma\Downloads\ürün durumu\6.jpeg")
+
+
 
   
 + **Sprint Review**: 
 
-  Alınan kararlar: 
-  Sprint Review katılımcıları:
+  Alınan kararlar: İlk sprintte katılımı az olan arkadaşların daha çok katılmasına karar verildi.  2. sprint için assetler üzerine çalışıp oyunun bu sprint içinde tamamen bitirilmesi ve 3. sprint sürecine sadece süslemeler ve eklenebilecek fazladan özellikler için zaman bırakılması hakkında konuşuldu.
+  Sprint Review katılımcıları: Mustafa Aydemir, Fatma Betül Tokuşlu, Cengizhan Boz, Ece Sütçü, Yaren Sarı
 
 + **Sprint Retrospective:**
-
+Gelecek sprintlerde daha düzenli ve aktif olunması gerektiği hakkında konuşuldu. Oyunun 2. sprintte tamamen bitirilmesi kararlaştırıldı.
 # Sprint 2
 # Sprint 3
 
