@@ -61,7 +61,8 @@
 
 + **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 + **Daily Scrum**: Daily Scrum dosyası içinde Product Owner arkadaşımız Mustafa'nın günlük konuşmalar ve eylemler sonucu tuttuğu **Eylem Takibi** notları ve developer arkadaşımızın tuttuğu **DevLog** notları yer almaktadır. 
-  [Sprint 1 Daily Scrum Notes](docs.google.com/document/d/1E5sOWnhyFnrcRP-oHkbo679HSwhVnD93/edit)
+  
+[Sprint 1 Daily Scrum.docx](https://github.com/fabetul/U-130-Game/files/11782096/Sprint.1.Daily.Scrum.docx)
 
 
 + **Sprint board**
