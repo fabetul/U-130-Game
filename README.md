@@ -70,16 +70,17 @@
 
 
 + **Ürün Durumu** 
-  Ekran görüntüsü:  ![Resim 1]("C:\Users\fatma\Downloads\ürün durumu\1.jpeg")
-![Resim 2]("C:\Users\fatma\Downloads\ürün durumu\2.jpeg")
-![Resim 3]("C:\Users\fatma\Downloads\ürün durumu\3.jpeg")
-![Resim 4]("C:\Users\fatma\Downloads\ürün durumu\4.jpeg")
-![Resim 5]("C:\Users\fatma\Downloads\ürün durumu\5.jpeg")
-![Resim 6]("C:\Users\fatma\Downloads\ürün durumu\6.jpeg")
+  Ekran görüntüsü:  ![1](https://github.com/fabetul/U-130-Game/assets/127511311/a60c52e8-d85a-47bc-a1fc-ed771d985f43)
 
+![2](https://github.com/fabetul/U-130-Game/assets/127511311/b04364c0-b9b3-4948-9961-28650a5e4543)
 
+  ![3](https://github.com/fabetul/U-130-Game/assets/127511311/03e75921-1fa5-4e9f-97ac-55d8054bebad)
+![4](https://github.com/fabetul/U-130-Game/assets/127511311/f0a18282-50a8-4039-8fd5-f2772c1ad449)
 
-  
+![5](https://github.com/fabetul/U-130-Game/assets/127511311/69295f24-e8ff-4329-9e20-c5fc2dfb796e)
+
+![6](https://github.com/fabetul/U-130-Game/assets/127511311/7eec4cc8-8c13-46e7-9f1d-4f933078d5d9)
+
 + **Sprint Review**: 
 
   Alınan kararlar: İlk sprintte katılımı az olan arkadaşların daha çok katılmasına karar verildi.  2. sprint için assetler üzerine çalışıp oyunun bu sprint içinde tamamen bitirilmesi ve 3. sprint sürecine sadece süslemeler ve eklenebilecek fazladan özellikler için zaman bırakılması hakkında konuşuldu.
