@@ -87,7 +87,7 @@
 + **Sprint Review**: 
 
   Alınan kararlar: İlk sprintte katılımı az olan arkadaşların daha çok katılmasına karar verildi.  2. sprint için assetler üzerine çalışıp oyunun bu sprint içinde tamamen bitirilmesi ve 3. sprint sürecine sadece süslemeler ve eklenebilecek fazladan özellikler için zaman bırakılması hakkında konuşuldu.
-  Sprint Review katılımcıları: Mustafa Aydemir, Fatma Betül Tokuşlu, Cengizhan Boz, Ece Sütçü, Yaren Sarı
+  + **Sprint Review katılımcıları:** Mustafa Aydemir, Fatma Betül Tokuşlu, Cengizhan Boz, Ece Sütçü, Yaren Sarı
 
 + **Sprint Retrospective:**
 Gelecek sprintlerde daha düzenli ve aktif olunması gerektiği hakkında konuşuldu. Oyunun 2. sprintte tamamen bitirilmesi kararlaştırıldı.
