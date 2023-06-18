@@ -49,7 +49,8 @@
 
 
 ## Product Backlog URL
-[Unity Team 130 Miro Backlog Board]((https://miro.com/app/board/uXjVM9pKeDE=/))
+[Unity Team 130 Miro Backlog Board](https://miro.com/app/board/uXjVM9pKeDE=/)
+
 
 
 # Sprint 1
