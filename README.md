@@ -65,7 +65,8 @@
 
 
 + **Sprint board**
-  Ekran görüntüsü: ![Sprint Board]("C:\Users\fatma\Downloads\sprint board.png") 
+  Ekran görüntüsü:  
+<img width="549" alt="sprint board" src="https://github.com/fabetul/U-130-Game/assets/127511311/f03eceb5-519f-4987-97b4-631b9849376f">
 
 
 
